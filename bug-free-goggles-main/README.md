@@ -1,6 +1,6 @@
 # Regex Tutorial Starter Code
 Module 17
-What is regex?
+## What is regex?
 short for regular expression, a regex is a string of text that lets you create patterns that help match, locate, and manage text.
 ### User Story
 AS A web development student
